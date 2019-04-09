@@ -1,4 +1,4 @@
-HBr_CaC03_mass ,Calciner_temp,Calciner_Heater kW,Calciner_Pressure,Calciner_velocity,Calciner_CO2_in,Calciner_O2_in,Calciner_N2_in,Calciner_top_temp,Calciner_O2_out,CalcinerH2Oout,Calciner_CO_out,CalcinerCH4out,Run_status,Carbonator_bottom_temp,Carbonatormidtemp,Carbonatorpress,Carbonatorvelocity,CarbonatorinletCO2,CarbonatorinletN2,CarbonatoroutletCO2,Carbonatortoptemp,rank
+HBr_CaC03_mass ,Calciner_temp,Calciner_Heater,Calciner_Pressure,Calciner_velocity,Calciner_CO2_in,Calciner_O2_in,Calciner_N2_in,Calciner_top_temp,Calciner_O2_out,CalcinerH2Oout,Calciner_CO_out,CalcinerCH4out,Run_status,Carbonator_bottom_temp,Carbonatormidtemp,Carbonatorpress,Carbonatorvelocity,CarbonatorinletCO2,CarbonatorinletN2,CarbonatoroutletCO2,Carbonatortoptemp,rank
 4200,632.75,7.8,3216,0.32,0,40,60,450.68,4.0784144,0.012741417,38.097718,0.23719944,0,446.905,560.105,2680,2.5,0,100,0.0714,529.81,1
 4200,634.72,7.8,3190.5,0.32,0,40,60,451.165,12.279849,0.039626833,27.277778,0.089655223,0,446.2,558.915,2905.5,2.5,0,100,-0.1666,529.27,1
 4200,636.5,7.8,3191.5,0.32,0,40,60,451.365,13.95611,0.013136714,5.5682233,0.000347759,0,445.035,558.565,2912.5,2.5,0,100,-0.2023,529.06,1
